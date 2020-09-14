@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Mark
+
+- 🌱 I’m currently learning Grafana, Python, .Net Core, IoT, Azure
+- 😄 Pronouns: He/Him
+
 
 <!--
 **go2engineering/go2engineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
